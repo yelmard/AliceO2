@@ -1,0 +1,18 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/workflow/src/ClusterReaderSpec.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ITSMFT/MFT/workflow/src/ClusterReaderSpec.cxx">
+<area shape="rect" id="node5" href="$d2/d43/ControlService_8h.html" title="Framework/ControlService.h" alt="" coords="5,221,211,247"/>
+<area shape="rect" id="node8" href="$de/dc6/ConfigParamRegistry_8h.html" title="Framework/ConfigParamRegistry.h" alt="" coords="553,131,796,158"/>
+<area shape="rect" id="node25" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="1639,131,1793,158"/>
+<area shape="rect" id="node27" href="$df/de4/CompCluster_8h.html" title="Definition of the ITSMFT compact cluster. " alt="" coords="1023,221,1273,247"/>
+<area shape="rect" id="node29" href="$d0/dc6/ITSMFT_2common_2include_2DataFormatsITSMFT_2ROFRecord_8h.html" title="DataFormatsITSMFT/ROFRecord.h" alt="" coords="1365,221,1603,247"/>
+<area shape="rect" id="node36" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="1074,124,1243,165"/>
+<area shape="rect" id="node37" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="997,303,1166,344"/>
+<area shape="rect" id="node6" href="$d3/d28/ServiceHandle_8h.html" title="Framework/ServiceHandle.h" alt="" coords="6,481,210,508"/>
+<area shape="rect" id="node9" href="$df/d72/ParamRetriever_8h.html" title="Framework/ParamRetriever.h" alt="" coords="499,310,709,337"/>
+<area shape="rect" id="node21" href="$dd/daf/ConfigParamStore_8h.html" title="Framework/ConfigParamStore.h" alt="" coords="343,221,569,247"/>
+<area shape="rect" id="node10" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="461,399,683,426"/>
+<area shape="rect" id="node11" href="$de/d56/Variant_8h.html" title="Framework/Variant.h" alt="" coords="842,481,998,508"/>
+<area shape="rect" id="node30" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="1449,310,1729,337"/>
+<area shape="rect" id="node32" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="1753,303,1985,344"/>
+<area shape="rect" id="node31" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1382,399,1549,426"/>
+<area shape="rect" id="node34" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="1735,399,1988,426"/>
+</map>

@@ -1,0 +1,26 @@
+var structo2_1_1fv0_1_1FV0DigParam =
+[
+    [ "O2ParamDef", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#ab060c948d99cc50dc641091aa2ca29d0", null ],
+    [ "avgPhElectron", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#ab29eb567ae3c2069857dcd9b3ac818ad", null ],
+    [ "cfdCheckWindow", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a9b52bd7d1e040d501b6eb4af572be1e2", null ],
+    [ "chargeIntBinMax", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a7cadca1df2b24ebfc589d685a28f5f22", null ],
+    [ "chargeIntBinMin", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#adf13cfe36c7a4cbb78c7e260b7124c1a", null ],
+    [ "intrinsicTimeRes", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a0433bd92603f111c7dc840e9a8970b05", null ],
+    [ "isIntegrateFull", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a69a383277622da3aae8ab50479142b91", null ],
+    [ "lightYield", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a3a71e8d280453ea0873a71cdce3c5920", null ],
+    [ "oneOverPmtTransitTime2", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a6380dbe22835369e16656e4f1dff3960", null ],
+    [ "photoCathodeEfficiency", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a7284e0875d75c200c77b51da4802b518", null ],
+    [ "pmtGain", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a8f1209f6fef107086dd0dc3da0ddc49e", null ],
+    [ "pmtTransitTime", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#ad57a78b795188830040085b4970841a0", null ],
+    [ "pmtTransparency", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a919d98488828fccff32194762ded59eb", null ],
+    [ "shapeAlpha", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a8668f6eb606dfcb818f83dea755e66a4", null ],
+    [ "shapeConst", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#ac8678f2dd3985f2efcdb485c7075fc08", null ],
+    [ "shapeMean", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a68b2178b7c00a6ef9cd8ec3eb317f602", null ],
+    [ "shapeN", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a09d79fe696aefe045d2a33f2d4109912", null ],
+    [ "shapeSigma", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a4b60de0a01286f56a65078f73f31c1a3", null ],
+    [ "singleMipThreshold", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#ad3c6bfb341a40fdd435f619767332bf1", null ],
+    [ "timeCompensate", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a739fbbf541d9938a3b5266361ac9cf4e", null ],
+    [ "timeShiftCfd", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a4b28239ed4c1151f9f09285f2b2c3015", null ],
+    [ "waveformBinWidth", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#aec0a444a648c6a011bfdf301c8094120", null ],
+    [ "waveformNbins", "d6/d82/structo2_1_1fv0_1_1FV0DigParam.html#a93f5d5fca232649b4d5b746a98ae07a6", null ]
+];

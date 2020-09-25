@@ -1,0 +1,10 @@
+<map id="CorrelationTask" name="CorrelationTask">
+<area shape="rect" id="node2" href="$db/d2d/structCorrelationTask_1_1QA.html" title="{CorrelationTask::QA\n||}" alt="" coords="151,833,302,910"/>
+<area shape="rect" id="node5" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; CorrelationContainer \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="1122,752,1313,991"/>
+<area shape="rect" id="node14" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\&lt; T \&gt;\n||+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ spec()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="1035,403,1264,627"/>
+<area shape="rect" id="node16" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; TH3F \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="1690,752,1881,991"/>
+<area shape="rect" id="node7" href="$d3/d87/classuint32__t.html" title="{uint32_t\n||}" alt="" coords="883,226,957,303"/>
+<area shape="rect" id="node11" href="$da/d96/structo2_1_1framework_1_1InputSpec.html" title="{o2::framework::InputSpec\n||+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ operator==()\l}" alt="" coords="1275,189,1464,340"/>
+<area shape="rect" id="node18" href="$de/dca/structCorrelationTask_1_1Config.html" title="{CorrelationTask::Config\n||}" alt="" coords="2041,651,2213,728"/>
+<area shape="rect" id="node19" href="$d1/d9a/structo2_1_1framework_1_1expressions_1_1Filter.html" title="A struct, containing the root of the expression tree. " alt="" coords="2181,818,2384,925"/>
+</map>

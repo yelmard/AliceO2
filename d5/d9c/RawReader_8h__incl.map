@@ -1,0 +1,21 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/include/TPCReconstruction/RawReader.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/include/TPCReconstruction/RawReader.h">
+<area shape="rect" id="node8" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="1721,527,1862,553"/>
+<area shape="rect" id="node9" href="$d6/d2b/TPC_2base_2include_2TPCBase_2CalDet_8h.html" title="TPCBase/CalDet.h" alt="" coords="1212,146,1350,173"/>
+<area shape="rect" id="node46" href="$d6/dbe/RawReaderEventSync_8h.html" title="TPCReconstruction/RawReader\lEventSync.h" alt="" coords="36,139,256,180"/>
+<area shape="rect" id="node11" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="1316,676,1494,703"/>
+<area shape="rect" id="node25" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1319,303,1462,329"/>
+<area shape="rect" id="node28" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="1724,601,1859,628"/>
+<area shape="rect" id="node31" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="1344,527,1466,553"/>
+<area shape="rect" id="node37" href="$db/d9b/CalArray_8h.html" title="TPCBase/CalArray.h" alt="" coords="829,228,978,255"/>
+<area shape="rect" id="node43" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="1610,228,1763,255"/>
+<area shape="rect" id="node13" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="876,833,1056,859"/>
+<area shape="rect" id="node16" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1328,751,1508,777"/>
+<area shape="rect" id="node27" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="1840,452,2004,479"/>
+<area shape="rect" id="node30" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1246,452,1415,479"/>
+<area shape="rect" id="node32" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="1609,377,1758,404"/>
+<area shape="rect" id="node34" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="748,601,892,628"/>
+<area shape="rect" id="node35" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="966,377,1153,404"/>
+<area shape="rect" id="node36" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1178,377,1352,404"/>
+<area shape="rect" id="node29" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="1686,676,1898,703"/>
+<area shape="rect" id="node33" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="1541,452,1664,479"/>
+</map>

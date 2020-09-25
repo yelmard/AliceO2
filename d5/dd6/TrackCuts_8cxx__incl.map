@@ -1,0 +1,28 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/qc/src/TrackCuts.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/qc/src/TrackCuts.cxx">
+<area shape="rect" id="node3" href="$dc/d4d/TrackCuts_8h.html" title="TPCQC/TrackCuts.h" alt="" coords="3295,124,3441,151"/>
+<area shape="rect" id="node5" href="$d5/dc9/TrackTPC_8h.html" title="DataFormatsTPC/TrackTPC.h" alt="" coords="3019,124,3226,151"/>
+<area shape="rect" id="node6" href="$d7/d8b/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Track_8h.html" title="ReconstructionDataFormats\l/Track.h" alt="" coords="2401,199,2604,240"/>
+<area shape="rect" id="node55" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="2716,206,2996,233"/>
+<area shape="rect" id="node56" href="$de/dcd/ClusterNative_8h.html" title="Class of a TPC cluster in TPC&#45;native coordinates (row, time) " alt="" coords="3253,563,3489,590"/>
+<area shape="rect" id="node59" href="$d1/d73/Defs_8h.html" title="Common definitions for 2D coordinates. " alt="" coords="69,385,246,411"/>
+<area shape="rect" id="node60" href="$d5/da8/dEdxInfo_8h.html" title="DataFormatsTPC/dEdxInfo.h" alt="" coords="3021,206,3225,233"/>
+<area shape="rect" id="node7" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2961,474,3127,501"/>
+<area shape="rect" id="node14" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="2293,288,2496,329"/>
+<area shape="rect" id="node30" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="1884,563,2015,590"/>
+<area shape="rect" id="node35" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="852,653,1111,679"/>
+<area shape="rect" id="node52" href="$d8/d77/Primitive2D_8h.html" title="Declarations of 2D primitives: straight line (XY interval) and circle. " alt="" coords="2743,295,2921,322"/>
+<area shape="rect" id="node53" href="$d5/d08/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2PID_8h.html" title="ReconstructionDataFormats\l/PID.h" alt="" coords="2945,288,3148,329"/>
+<area shape="rect" id="node19" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="2090,377,2318,419"/>
+<area shape="rect" id="node42" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1197,474,1377,501"/>
+<area shape="rect" id="node20" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="2141,474,2305,501"/>
+<area shape="rect" id="node24" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2467,467,2695,508"/>
+<area shape="rect" id="node36" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="2463,563,2633,590"/>
+<area shape="rect" id="node31" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1883,735,2026,761"/>
+<area shape="rect" id="node34" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="1746,653,1899,679"/>
+<area shape="rect" id="node32" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1753,809,1951,836"/>
+<area shape="rect" id="node33" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1975,809,2140,836"/>
+<area shape="rect" id="node40" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="2320,653,2515,679"/>
+<area shape="rect" id="node49" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="94,563,274,590"/>
+<area shape="rect" id="node54" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="2821,385,3097,411"/>
+<area shape="rect" id="node58" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="3231,653,3443,679"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/base/src/TRDGeometry.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/base/src/TRDGeometry.cxx">
+<area shape="rect" id="node7" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="1460,124,1714,151"/>
+<area shape="rect" id="node20" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="2570,385,2700,411"/>
+<area shape="rect" id="node48" href="$dd/d07/TRDGeometry_8h.html" title="TRDBase/TRDGeometry.h" alt="" coords="2904,124,3091,151"/>
+<area shape="rect" id="node52" href="$de/df3/TRDPadPlane_8h.html" title="TRDBase/TRDPadPlane.h" alt="" coords="1593,295,1776,322"/>
+<area shape="rect" id="node12" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2776,288,3004,329"/>
+<area shape="rect" id="node35" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="1342,295,1522,322"/>
+<area shape="rect" id="node46" href="$db/dba/MatCell_8h.html" title="Declarations for material properties of the cell (voxel) " alt="" coords="1136,295,1318,322"/>
+<area shape="rect" id="node28" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="3069,385,3238,411"/>
+<area shape="rect" id="node22" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1742,556,1885,583"/>
+<area shape="rect" id="node25" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="2378,474,2532,501"/>
+<area shape="rect" id="node27" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="2096,474,2355,501"/>
+<area shape="rect" id="node23" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1612,631,1810,657"/>
+<area shape="rect" id="node24" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1834,631,1999,657"/>
+<area shape="rect" id="node33" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="2980,474,3175,501"/>
+<area shape="rect" id="node43" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="60,385,240,411"/>
+<area shape="rect" id="node47" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1902,385,2069,411"/>
+<area shape="rect" id="node49" href="$d8/dad/TRDGeometryBase_8h.html" title="TRDBase/TRDGeometryBase.h" alt="" coords="2002,206,2223,233"/>
+<area shape="rect" id="node53" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="2681,199,2909,240"/>
+<area shape="rect" id="node50" href="$da/d32/TRDCommonParam_8h.html" title="TRDBase/TRDCommonParam.h" alt="" coords="1851,295,2075,322"/>
+<area shape="rect" id="node51" href="$d6/dc2/DataFormats_2Detectors_2TRD_2include_2DataFormatsTRD_2Constants_8h.html" title="DataFormatsTRD/Constants.h" alt="" coords="2100,295,2314,322"/>
+<area shape="rect" id="node54" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="2390,295,2554,322"/>
+</map>

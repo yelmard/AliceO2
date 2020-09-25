@@ -1,0 +1,11 @@
+<map id="TracksAndEventClassificationQA" name="TracksAndEventClassificationQA">
+<area shape="rect" id="node2" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; o2::analysis::SimpleInclusiveCut \&gt;\n||+ Configurable()\l+ operator o2::analysis\l::SimpleInclusiveCut()\l+ operator&#45;\&gt;()\l}" alt="" coords="272,476,535,612"/>
+<area shape="rect" id="node3" href="$db/dee/classo2_1_1analysis_1_1SimpleInclusiveCut.html" title="{o2::analysis::SimpleInclusiveCut\n||+ SimpleInclusiveCut()\l+ SimpleInclusiveCut()\l+ SimpleInclusiveCut()\l+ ~SimpleInclusiveCut()\l+ operator=()\l}" alt="" coords="5,211,239,347"/>
+<area shape="rect" id="node5" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="141,27,191,105"/>
+<area shape="rect" id="node7" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\&lt; T \&gt;\n||+ Configurable()\l+ operator T()\l+ operator&#45;\&gt;()\l}" alt="" coords="263,226,509,333"/>
+<area shape="rect" id="node9" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; TH1F \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="931,719,1121,957"/>
+<area shape="rect" id="node13" href="$da/d96/structo2_1_1framework_1_1InputSpec.html" title="{o2::framework::InputSpec\n||+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ operator==()\l}" alt="" coords="1529,204,1718,355"/>
+<area shape="rect" id="node17" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\&lt; T \&gt;\n||+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ spec()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="1133,432,1362,656"/>
+<area shape="rect" id="node11" href="$d3/d87/classuint32__t.html" title="{uint32_t\n||}" alt="" coords="739,241,814,318"/>
+<area shape="rect" id="node19" href="$d1/d9a/structo2_1_1framework_1_1expressions_1_1Filter.html" title="A struct, containing the root of the expression tree. " alt="" coords="1367,785,1570,891"/>
+</map>

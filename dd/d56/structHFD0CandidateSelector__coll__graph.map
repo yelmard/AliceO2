@@ -1,0 +1,6 @@
+<map id="HFD0CandidateSelector" name="HFD0CandidateSelector">
+<area shape="rect" id="node2" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::HFSelD0Candidate \&gt;\n||}" alt="" coords="43,344,249,436"/>
+<area shape="rect" id="node3" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\&lt; T \&gt;\n||}" alt="" coords="5,175,228,252"/>
+<area shape="rect" id="node4" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; double \&gt;\n||+ Configurable()\l+ operator double()\l+ operator&#45;\&gt;()\l}" alt="" coords="291,329,497,451"/>
+<area shape="rect" id="node7" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\&lt; T \&gt;\n||+ Configurable()\l+ operator T()\l+ operator&#45;\&gt;()\l}" alt="" coords="489,160,734,267"/>
+</map>

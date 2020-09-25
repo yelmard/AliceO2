@@ -1,0 +1,36 @@
+var structTrackQATask =
+[
+    [ "Quantities", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4ca", [
+      [ "pt", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa6ac93d6abbadf674855284d99eb086c1", null ],
+      [ "eta", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caafee3dd129f336a3ba1e68ce03db385b9", null ],
+      [ "phi", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa263cee7e0f2f9cfa4ec4411eadbdba00", null ],
+      [ "x", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa7db097c8be703497e99ee951f342973a", null ],
+      [ "y", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caac41db45310cc7c1f87433e50aa953916", null ],
+      [ "z", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caabf0ec4696939db8127180adfa4c6096f", null ],
+      [ "alpha", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa49c929c20d5ef37c2deafc67a9b9eea2", null ],
+      [ "signed1Pt", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caaad3606881270769cffdfc1c1d9ee0002", null ],
+      [ "snp", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa2e4928d7ca7593f1dbe773f2044bdad0", null ],
+      [ "tgl", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa34338447af2f3e433533fc498e37adf0", null ],
+      [ "dcaXY", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caae454811a98dea03988d26b04730ee049", null ],
+      [ "dcaZ", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa73db58d2a60bfdf1cec2066e032dbaae", null ],
+      [ "flags", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa47b8d83ae9d718fd5d25928defe6a541", null ],
+      [ "itsNCls", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa16f10d1a2f7835b3bc042235af989aba", null ],
+      [ "itsChi2NCl", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa18c09ab2bb25c326f09351175a2cba57", null ],
+      [ "itsHits", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa5da05f943c11cb3822971d1b2ca7b751", null ],
+      [ "tpcNClsFindable", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa3ecb956b47f64349f6624b354c97ba5c", null ],
+      [ "tpcNClsFound", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caab6dc0e19d1f4ea501a6a99e720c51959", null ],
+      [ "tpcNClsShared", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caaf9293d38fa452f190f562dcd1c2a54f3", null ],
+      [ "tpcNClsCrossedRows", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa26494ab4a3b941940210ccc8987966e9", null ],
+      [ "tpcCrossedRowsOverFindableCls", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa5e01c62deeb204d8dde9dbf7874b5fda", null ],
+      [ "tpcFractionSharedCls", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa71e51463b1bc7724bcc90cf851fc6abb", null ],
+      [ "tpcChi2NCl", "d0/d02/structTrackQATask.html#a5503240e7bde70c5261888382b09e4caa0b1ec4c8d56e41a7d8636e31b496b5ef", null ]
+    ] ],
+    [ "init", "d0/d02/structTrackQATask.html#acfe4bd8d0cf1c3096f06c437e69dd856", null ],
+    [ "process", "d0/d02/structTrackQATask.html#a926055ab0f98ad504cab99e98298bb2a", null ],
+    [ "its", "d0/d02/structTrackQATask.html#af10535df90a92e158f752d2c39952d23", null ],
+    [ "kine", "d0/d02/structTrackQATask.html#a59e06c960e8162eaa2743b99f330a9a6", null ],
+    [ "selectedTracks", "d0/d02/structTrackQATask.html#a8bfb53f286d250f98835572a8c8f030b", null ],
+    [ "tpc", "d0/d02/structTrackQATask.html#a5108edbf659ff288f1fd8a7f8bc6aef5", null ],
+    [ "trackFilter", "d0/d02/structTrackQATask.html#a1ca9dbbb809251060984362151255a31", null ],
+    [ "trackpar", "d0/d02/structTrackQATask.html#af79f8da1e7b9912dd86f2cbf3a9dcc85", null ]
+];

@@ -1,0 +1,4 @@
+<map id="o2::framework::ErrorContext" name="o2::framework::ErrorContext">
+<area shape="rect" id="node3" href="$dc/dba/structo2_1_1framework_1_1ServiceRegistry.html" title="{o2::framework::ServiceRegistry\n||+ ServiceRegistry()\l+ ServiceRegistry()\l+ operator=()\l+ preProcessingCallbacks()\l+ postProcessingCallbacks()\l+ preDanglingCallbacks()\l+ postDanglingCallbacks()\l+ preEOSCallbacks()\l+ postEOSCallbacks()\l+ declareService()\l+ bindService()\l+ registerService()\l+ getPos()\l+ get()\l+ registerService()\l+ registerService()\l+ registerService()\l+ active()\l+ get()\l}" alt="" coords="917,204,1144,545"/>
+<area shape="rect" id="node13" href="$df/d24/classo2_1_1framework_1_1InputRecord.html" title="The input API of the Data Processing Layer This class holds the inputs which are valid for processing..." alt="" coords="1168,241,1371,509"/>
+</map>

@@ -1,0 +1,8 @@
+digraph "o2::framework::HistogramCallbacks"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{o2::framework::Histogram\lCallbacks\n||+ createTH1D()\l+ createTH1F()\l+ createTH1I()\l+ createTH2D()\l+ createTH2F()\l+ createTH2I()\l+ createTH3D()\l+ createTH3F()\l+ createTH3I()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+}

@@ -1,0 +1,13 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/reconstruction/include/TOFReconstruction/DecoderBase.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TOF/reconstruction/include/TOFReconstruction/DecoderBase.h">
+<area shape="rect" id="node2" href="$d1/d15/DecoderBase_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/reconstruction\l/src/DecoderBase.cxx" alt="" coords="44,146,259,217"/>
+<area shape="rect" id="node3" href="$d1/dcc/CompressedAnalysis_8h.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/workflow\l/include/TOFWorkflow/Compressed\lAnalysis.h" alt="" coords="283,139,529,224"/>
+<area shape="rect" id="node7" href="$db/d4c/CompressedDecodingTask_8h.html" title="TOF compressed data decoding task. " alt="" coords="553,139,800,224"/>
+<area shape="rect" id="node10" href="$d3/da3/CompressedInspectorTask_8h.html" title="TOF compressed data inspector task. " alt="" coords="964,139,1211,224"/>
+<area shape="rect" id="node4" href="$db/d2c/CompressedAnalysisTask_8h.html" title="TOF compressed data analysis base class. " alt="" coords="131,272,377,357"/>
+<area shape="rect" id="node5" href="$d7/d76/tof-compressed-analysis_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/compression\l/src/tof&#45;compressed&#45;analysis.cxx" alt="" coords="5,405,241,476"/>
+<area shape="rect" id="node6" href="$d6/dc7/CompressedAnalysisTask_8cxx.html" title="TOF compressed data analysis task. " alt="" coords="265,405,507,476"/>
+<area shape="rect" id="node8" href="$da/dfd/tof-reco-workflow_8cxx.html" title="Basic DPL workflow for TOF reconstruction starting from digits. " alt="" coords="401,279,672,350"/>
+<area shape="rect" id="node9" href="$d8/d56/CompressedDecodingTask_8cxx.html" title="TOF compressed data decoding task. " alt="" coords="696,279,943,350"/>
+<area shape="rect" id="node11" href="$de/d0d/tof-compressed-inspector_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/TOF/compression\l/src/tof&#45;compressed&#45;inspector.cxx" alt="" coords="967,279,1208,350"/>
+<area shape="rect" id="node12" href="$da/dc7/CompressedInspectorTask_8cxx.html" title="TOF compressed data inspector task. " alt="" coords="1232,279,1479,350"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="pidTOFTask" name="pidTOFTask">
+<area shape="rect" id="node2" href="$de/de9/structo2_1_1framework_1_1Service.html" title="{o2::framework::Service\l\&lt; o2::ccdb::BasicCCDBManager \&gt;\n||+ operator&#45;\&gt;()\l}" alt="" coords="103,696,346,788"/>
+<area shape="rect" id="node3" href="$da/d73/classo2_1_1ccdb_1_1BasicCCDBManager.html" title="{o2::ccdb::BasicCCDBManager\n||+ setURL()\l+ setTimestamp()\l+ getURL()\l+ getTimestamp()\l+ getForTimeStamp()\l+ get()\l+ isHostReachable()\l+ clearCache()\l+ clearCache()\l+ isCachingEnabled()\l+ setCaching()\l+ isLocalObjectValidityChecking\lEnabled()\l+ setLocalObjectValidityChecking()\l+ setCreatedNotAfter()\l+ getCreatedNotAfter()\l+ resetCreatedNotAfter()\l+ setCreatedNotBefore()\l+ getCreatedNotBefore()\l+ resetCreatedNotBefore()\l+ instance()\l}" alt="" coords="5,160,257,531"/>
+<area shape="rect" id="node4" href="$de/de9/structo2_1_1framework_1_1Service.html" title="{o2::framework::Service\&lt; T \&gt;\n||+ operator&#45;\&gt;()\l}" alt="" coords="287,307,498,384"/>
+<area shape="rect" id="node11" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\&lt; T \&gt;\n||+ Configurable()\l+ operator T()\l+ operator&#45;\&gt;()\l}" alt="" coords="967,292,1213,399"/>
+<area shape="rect" id="node6" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::pidRespTOF \&gt;\n||}" alt="" coords="389,696,573,788"/>
+<area shape="rect" id="node7" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\&lt; T \&gt;\n||}" alt="" coords="532,307,755,384"/>
+<area shape="rect" id="node17" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::pidRespTOFbeta \&gt;\n||}" alt="" coords="597,696,786,788"/>
+<area shape="rect" id="node8" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; std::string \&gt;\n||+ Configurable()\l+ operator std::string()\l+ operator&#45;\&gt;()\l}" alt="" coords="811,681,1017,803"/>
+<area shape="rect" id="node12" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; long \&gt;\n||+ Configurable()\l+ operator long()\l+ operator&#45;\&gt;()\l}" alt="" coords="1080,681,1287,803"/>
+<area shape="rect" id="node14" href="$d8/d53/classo2_1_1pid_1_1tof_1_1Response.html" title="Class to handle the the TOF detector response. " alt="" coords="1329,593,1544,891"/>
+<area shape="rect" id="node15" href="$dc/d34/classo2_1_1pid_1_1DetectorResponse.html" title="Class to handle the general detector response. " alt="" coords="1535,241,1727,450"/>
+</map>

@@ -1,0 +1,57 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/workflow/include/EMCALWorkflow/RawToCellConverterSpec.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/EMCAL/workflow/include/EMCALWorkflow/RawToCellConverterSpec.h">
+<area shape="rect" id="node3" href="$d0/df4/DataProcessorSpec_8h.html" title="Framework/DataProcessorSpec.h" alt="" coords="1079,139,1314,165"/>
+<area shape="rect" id="node66" href="$df/d4f/Task_8h.html" title="Framework/Task.h" alt="" coords="3513,139,3651,165"/>
+<area shape="rect" id="node71" href="$d5/dd3/DataFormats_2Detectors_2EMCAL_2include_2DataFormatsEMCAL_2Cell_8h.html" title="DataFormatsEMCAL/Cell.h" alt="" coords="7732,534,7923,561"/>
+<area shape="rect" id="node75" href="$d9/d38/EMCAL_2include_2DataFormatsEMCAL_2TriggerRecord_8h.html" title="DataFormatsEMCAL/Trigger\lRecord.h" alt="" coords="6613,437,6812,479"/>
+<area shape="rect" id="node81" href="$dd/da8/EMCAL_2base_2include_2EMCALBase_2Geometry_8h.html" title="EMCALBase/Geometry.h" alt="" coords="5049,534,5227,561"/>
+<area shape="rect" id="node95" href="$d1/d7a/EMCAL_2base_2include_2EMCALBase_2Mapper_8h.html" title="EMCALBase/Mapper.h" alt="" coords="5496,534,5657,561"/>
+<area shape="rect" id="node98" href="$d4/d18/CaloRawFitter_8h.html" title="EMCALReconstruction\l/CaloRawFitter.h" alt="" coords="7037,437,7199,479"/>
+<area shape="rect" id="node4" href="$d0/d14/AlgorithmSpec_8h.html" title="Framework/AlgorithmSpec.h" alt="" coords="3409,213,3614,240"/>
+<area shape="rect" id="node7" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="1917,534,2079,561"/>
+<area shape="rect" id="node26" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="1209,534,1384,561"/>
+<area shape="rect" id="node59" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="1671,534,1893,561"/>
+<area shape="rect" id="node63" href="$d1/df2/DataProcessorLabel_8h.html" title="Framework/DataProcessorLabel.h" alt="" coords="5,213,244,240"/>
+<area shape="rect" id="node64" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="440,623,625,650"/>
+<area shape="rect" id="node65" href="$d8/d02/CommonServices_8h.html" title="Framework/CommonServices.h" alt="" coords="3933,534,4157,561"/>
+<area shape="rect" id="node5" href="$de/d6a/ProcessingContext_8h.html" title="Framework/ProcessingContext.h" alt="" coords="2781,288,3012,315"/>
+<area shape="rect" id="node55" href="$d7/dad/ErrorContext_8h.html" title="Framework/ErrorContext.h" alt="" coords="3755,288,3947,315"/>
+<area shape="rect" id="node56" href="$d4/d2b/InitContext_8h.html" title="Framework/InitContext.h" alt="" coords="3307,288,3489,315"/>
+<area shape="rect" id="node57" href="$de/d9b/FunctionalHelpers_8h.html" title="Framework/FunctionalHelpers.h" alt="" coords="3265,363,3491,389"/>
+<area shape="rect" id="node6" href="$d6/d5c/InputRecord_8h.html" title="Framework/InputRecord.h" alt="" coords="2275,363,2462,389"/>
+<area shape="rect" id="node45" href="$d1/d28/DataAllocator_8h.html" title="Framework/DataAllocator.h" alt="" coords="2780,445,2979,471"/>
+<area shape="rect" id="node8" href="$d5/db8/DataRefUtils_8h.html" title="Framework/DataRefUtils.h" alt="" coords="1863,445,2055,471"/>
+<area shape="rect" id="node9" href="$d0/d95/TypeTraits_8h.html" title="Framework/TypeTraits.h" alt="" coords="2307,534,2481,561"/>
+<area shape="rect" id="node12" href="$db/d31/Traits_8h.html" title="Framework/Traits.h" alt="" coords="2408,623,2553,650"/>
+<area shape="rect" id="node14" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="831,795,1000,821"/>
+<area shape="rect" id="node22" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="617,869,811,896"/>
+<area shape="rect" id="node25" href="$d5/d19/InputRoute_8h.html" title="Framework/InputRoute.h" alt="" coords="3104,445,3284,471"/>
+<area shape="rect" id="node39" href="$da/d0f/InputSpan_8h.html" title="Framework/InputSpan.h" alt="" coords="2131,445,2305,471"/>
+<area shape="rect" id="node40" href="$dc/d03/TableConsumer_8h.html" title="Framework/TableConsumer.h" alt="" coords="1177,795,1387,821"/>
+<area shape="rect" id="node41" href="$d7/d91/BoostSerializer_8h.html" title="Templatised boost serializer/deserializer for containers and base types. " alt="" coords="3689,445,3913,471"/>
+<area shape="rect" id="node27" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="320,713,484,739"/>
+<area shape="rect" id="node28" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="610,713,861,739"/>
+<area shape="rect" id="node29" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="1360,616,1556,657"/>
+<area shape="rect" id="node30" href="$d6/dc9/DataProcessingHeader_8h.html" title="Framework/DataProcessing\lHeader.h" alt="" coords="1139,705,1337,747"/>
+<area shape="rect" id="node31" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="986,713,1114,739"/>
+<area shape="rect" id="node46" href="$d8/d17/ServiceRegistry_8h.html" title="Framework/ServiceRegistry.h" alt="" coords="3699,534,3908,561"/>
+<area shape="rect" id="node47" href="$d3/d28/ServiceHandle_8h.html" title="Framework/ServiceHandle.h" alt="" coords="3768,713,3972,739"/>
+<area shape="rect" id="node48" href="$d4/d61/ServiceSpec_8h.html" title="Framework/ServiceSpec.h" alt="" coords="3389,623,3578,650"/>
+<area shape="rect" id="node50" href="$d0/d6d/ServiceRegistryHelpers_8h.html" title="Framework/ServiceRegistry\lHelpers.h" alt="" coords="3956,616,4155,657"/>
+<area shape="rect" id="node51" href="$d2/d9a/TypeIdHelpers_8h.html" title="Framework/TypeIdHelpers.h" alt="" coords="4149,713,4351,739"/>
+<area shape="rect" id="node53" href="$db/dff/StringHelpers_8h.html" title="Framework/StringHelpers.h" alt="" coords="4383,795,4581,821"/>
+<area shape="rect" id="node58" href="$dd/dce/Pack_8h.html" title="Framework/Pack.h" alt="" coords="3308,445,3448,471"/>
+<area shape="rect" id="node60" href="$de/d56/Variant_8h.html" title="Framework/Variant.h" alt="" coords="1835,623,1991,650"/>
+<area shape="rect" id="node67" href="$d9/d7f/CallbackService_8h.html" title="Framework/CallbackService.h" alt="" coords="4089,363,4304,389"/>
+<area shape="rect" id="node70" href="$d0/d77/EndOfStreamContext_8h.html" title="Framework/EndOfStreamContext.h" alt="" coords="3036,288,3283,315"/>
+<area shape="rect" id="node68" href="$d7/d3e/CallbackRegistry_8h.html" title="A generic registry for callbacks. " alt="" coords="3473,445,3614,471"/>
+<area shape="rect" id="node74" href="$dd/dda/DataFormats_2Detectors_2EMCAL_2include_2DataFormatsEMCAL_2Constants_8h.html" title="DataFormatsEMCAL/Constants.h" alt="" coords="6801,623,7032,650"/>
+<area shape="rect" id="node76" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="6413,527,6645,568"/>
+<area shape="rect" id="node80" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="6801,534,7081,561"/>
+<area shape="rect" id="node77" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="7108,623,7275,650"/>
+<area shape="rect" id="node79" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="6371,623,6625,650"/>
+<area shape="rect" id="node87" href="$d5/d5e/GeometryBase_8h.html" title="EMCALBase/GeometryBase.h" alt="" coords="4149,795,4359,821"/>
+<area shape="rect" id="node88" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="5597,623,5777,650"/>
+<area shape="rect" id="node94" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="5073,713,5253,739"/>
+<area shape="rect" id="node99" href="$d2/d39/CaloFitResults_8h.html" title="EMCALReconstruction\l/CaloFitResults.h" alt="" coords="7155,527,7318,568"/>
+<area shape="rect" id="node100" href="$d1/d29/Bunch_8h.html" title="EMCALReconstruction\l/Bunch.h" alt="" coords="7494,527,7657,568"/>
+</map>

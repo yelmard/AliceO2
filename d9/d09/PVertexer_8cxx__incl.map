@@ -1,0 +1,45 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/Vertexing/src/PVertexer.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/Vertexing/src/PVertexer.cxx">
+<area shape="rect" id="node2" href="$d4/d02/PVertexer_8h.html" title="Primary vertex finder. " alt="" coords="5596,124,5743,165"/>
+<area shape="rect" id="node83" href="$d7/d99/DCA_8h.html" title="ReconstructionDataFormats\l/DCA.h" alt="" coords="4695,660,4897,701"/>
+<area shape="rect" id="node5" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="5100,757,5353,783"/>
+<area shape="rect" id="node6" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="5923,667,6173,694"/>
+<area shape="rect" id="node12" href="$d4/d5f/BunchFilling_8h.html" title="CommonDataFormat/BunchFilling.h" alt="" coords="2989,667,3241,694"/>
+<area shape="rect" id="node15" href="$da/df0/MCEventLabel_8h.html" title="SimulationDataFormat\l/MCEventLabel.h" alt="" coords="965,660,1134,701"/>
+<area shape="rect" id="node18" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="3858,303,4027,344"/>
+<area shape="rect" id="node19" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="545,757,676,783"/>
+<area shape="rect" id="node23" href="$d5/d1e/TrackTPCITS_8h.html" title="Result of refitting TPC&#45;ITS matched track. " alt="" coords="3415,213,3617,255"/>
+<area shape="rect" id="node24" href="$d7/d8b/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Track_8h.html" title="ReconstructionDataFormats\l/Track.h" alt="" coords="3249,392,3452,433"/>
+<area shape="rect" id="node61" href="$d7/d82/PrimaryVertex_8h.html" title="ReconstructionDataFormats\l/PrimaryVertex.h" alt="" coords="5399,392,5601,433"/>
+<area shape="rect" id="node64" href="$d4/d57/RecPoints_8h.html" title="Definition of the FIT RecPoints class. " alt="" coords="5419,489,5627,515"/>
+<area shape="rect" id="node69" href="$db/db1/PVertexerHelpers_8h.html" title="Primary vertex finder helper classes. " alt="" coords="5255,303,5406,344"/>
+<area shape="rect" id="node73" href="$d4/deb/PVertexerParams_8h.html" title="DetectorsVertexing\l/PVertexerParams.h" alt="" coords="6487,392,6636,433"/>
+<area shape="rect" id="node82" href="$da/d63/InteractionTag_8h.html" title="FT0Reconstruction/Interaction\lTag.h" alt="" coords="6247,392,6462,433"/>
+<area shape="rect" id="node7" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="3535,757,3702,783"/>
+<area shape="rect" id="node9" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="618,928,761,955"/>
+<area shape="rect" id="node10" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="488,1003,685,1029"/>
+<area shape="rect" id="node11" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="709,1003,875,1029"/>
+<area shape="rect" id="node20" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="410,846,563,873"/>
+<area shape="rect" id="node22" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="25,846,284,873"/>
+<area shape="rect" id="node60" href="$d6/db1/TrackLTIntegral_8h.html" title="Track Length and TOF integral. " alt="" coords="3388,303,3591,344"/>
+<area shape="rect" id="node28" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="3167,481,3369,523"/>
+<area shape="rect" id="node57" href="$d8/d77/Primitive2D_8h.html" title="Declarations of 2D primitives: straight line (XY interval) and circle. " alt="" coords="3527,489,3705,515"/>
+<area shape="rect" id="node58" href="$d5/d08/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2PID_8h.html" title="ReconstructionDataFormats\l/PID.h" alt="" coords="2839,481,3041,523"/>
+<area shape="rect" id="node32" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="3831,571,4059,612"/>
+<area shape="rect" id="node47" href="$dd/d76/Cartesian3D_8h.html" title="MathUtils/Cartesian3D.h" alt="" coords="2270,667,2450,694"/>
+<area shape="rect" id="node33" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="3999,667,4163,694"/>
+<area shape="rect" id="node37" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2737,660,2965,701"/>
+<area shape="rect" id="node41" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="1015,757,1185,783"/>
+<area shape="rect" id="node45" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="1743,846,1937,873"/>
+<area shape="rect" id="node54" href="$d2/dd0/Cartesian2D_8h.html" title="MathUtils/Cartesian2D.h" alt="" coords="709,757,889,783"/>
+<area shape="rect" id="node59" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="2663,578,2939,605"/>
+<area shape="rect" id="node62" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="4921,660,5153,701"/>
+<area shape="rect" id="node63" href="$d3/d6f/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Vertex_8h.html" title="ReconstructionDataFormats\l/Vertex.h" alt="" coords="5707,571,5909,612"/>
+<area shape="rect" id="node65" href="$dc/d44/FIT_2FT0_2include_2DataFormatsFT0_2ChannelData_8h.html" title="DataFormatsFT0/ChannelData.h" alt="" coords="5279,667,5508,694"/>
+<area shape="rect" id="node66" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="4391,667,4671,694"/>
+<area shape="rect" id="node67" href="$d0/d0a/DataFormats_2Detectors_2FIT_2FT0_2include_2DataFormatsFT0_2Digit_8h.html" title="DataFormatsFT0/Digit.h" alt="" coords="5180,578,5356,605"/>
+<area shape="rect" id="node70" href="$d0/d00/VtxTrackIndex_8h.html" title="Index of track attached to vertx: index in its proper container, container source and flags..." alt="" coords="3721,660,3924,701"/>
+<area shape="rect" id="node72" href="$d7/dac/VtxTrackRef_8h.html" title="Referenc on track indices contributing to the vertex, with possibility chose tracks from specific sou..." alt="" coords="4185,571,4388,612"/>
+<area shape="rect" id="node71" href="$df/d9a/AbstractRef_8h.html" title="Class to refer to object indicating its Indec, Source and status flags. " alt="" coords="3777,749,3993,791"/>
+<area shape="rect" id="node74" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="6537,571,6735,612"/>
+<area shape="rect" id="node79" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="6297,481,6495,523"/>
+</map>

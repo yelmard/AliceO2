@@ -1,0 +1,16 @@
+<map id="DptDptCorrelationsFilterAnalysisTask" name="DptDptCorrelationsFilterAnalysisTask">
+<area shape="rect" id="node2" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; int \&gt;\n||+ Configurable()\l+ operator int()\l+ operator&#45;\&gt;()\l}" alt="" coords="513,557,719,678"/>
+<area shape="rect" id="node4" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\&lt; T \&gt;\n||+ Configurable()\l+ operator T()\l+ operator&#45;\&gt;()\l}" alt="" coords="417,299,663,406"/>
+<area shape="rect" id="node6" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; bool \&gt;\n||+ Configurable()\l+ operator bool()\l+ operator&#45;\&gt;()\l}" alt="" coords="974,557,1181,678"/>
+<area shape="rect" id="node11" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; std::string \&gt;\n||+ Configurable()\l+ operator std::string()\l+ operator&#45;\&gt;()\l}" alt="" coords="743,557,950,678"/>
+<area shape="rect" id="node13" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; o2::analysis::DptDptBinningCuts \&gt;\n||+ Configurable()\l+ operator o2::analysis\l::DptDptBinningCuts()\l+ operator&#45;\&gt;()\l}" alt="" coords="217,549,479,685"/>
+<area shape="rect" id="node14" href="$d0/dd1/classo2_1_1analysis_1_1DptDptBinningCuts.html" title="Class which implements configurable acceptance cuts. " alt="" coords="60,314,292,391"/>
+<area shape="rect" id="node16" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; TList \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="1391,792,1582,1031"/>
+<area shape="rect" id="node20" href="$da/d96/structo2_1_1framework_1_1InputSpec.html" title="{o2::framework::InputSpec\n||+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ operator==()\l}" alt="" coords="1619,277,1808,428"/>
+<area shape="rect" id="node23" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\&lt; T \&gt;\n||+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ spec()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="1625,505,1855,729"/>
+<area shape="rect" id="node8" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::AcceptedEvents \&gt;\n||}" alt="" coords="2067,865,2255,957"/>
+<area shape="rect" id="node9" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\&lt; T \&gt;\n||}" alt="" coords="2182,579,2405,656"/>
+<area shape="rect" id="node10" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::ScannedTracks \&gt;\n||}" alt="" coords="1775,865,1959,957"/>
+<area shape="rect" id="node15" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="5,27,56,105"/>
+<area shape="rect" id="node19" href="$d3/d87/classuint32__t.html" title="{uint32_t\n||}" alt="" coords="1421,314,1496,391"/>
+</map>

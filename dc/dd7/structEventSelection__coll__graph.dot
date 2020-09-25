@@ -1,0 +1,55 @@
+digraph "EventSelection"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{EventSelection\n||+ init()\l+ DefineCuts()\l+ process()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +fValues" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{float\n||}",height=0.2,width=0.4,color="black",URL="$d4/dc3/classfloat.html"];
+  Node3 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +eventSel" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node3 [label="{o2::framework::Produces\l\< aod::EventCuts \>\n||}",height=0.2,width=0.4,color="black",URL="$d6/d86/structo2_1_1framework_1_1Produces.html"];
+  Node4 -> Node3 [dir="back",color="orange",fontsize="10",style="solid",label=" \< aod::EventCuts \>" ,fontname="Helvetica"];
+  Node4 [label="{o2::framework::Produces\< T \>\n||}",height=0.2,width=0.4,color="black",URL="$d6/d86/structo2_1_1framework_1_1Produces.html"];
+  Node5 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +fEventCut" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node5 [label="{AnalysisCompositeCut\n||+ AnalysisCompositeCut()\l+ AnalysisCompositeCut()\l+ AnalysisCompositeCut()\l+ operator=()\l+ ~AnalysisCompositeCut()\l+ AddCut()\l+ GetUseAND()\l+ GetNCuts()\l+ IsSelected()\l# ClassDef()\l}",height=0.2,width=0.4,color="black",URL="$db/d7a/classAnalysisCompositeCut.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node6 [label="{AnalysisCut\n||+ AnalysisCut()\l+ AnalysisCut()\l+ AnalysisCut()\l+ operator=()\l+ ~AnalysisCut()\l+ AddCut()\l+ IsSelected()\l# ClassDef()\l}",height=0.2,width=0.4,color="black",URL="$de/df4/classAnalysisCut.html"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node7 [label="{TNamed\n||}",height=0.2,width=0.4,color="grey75"];
+  Node8 -> Node6 [color="grey25",fontsize="10",style="solid",label=" #fCuts" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 [label="{vector\< AnalysisCut\l::CutContainer \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node9 -> Node6 [color="grey25",fontsize="10",style="solid",label=" +fgUsedVars" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 [label="{static\n||}",height=0.2,width=0.4,color="grey75"];
+  Node10 -> Node5 [color="grey25",fontsize="10",style="solid",label=" #fCutList" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node10 [label="{vector\< AnalysisCut \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node11 -> Node5 [color="grey25",fontsize="10",style="solid",label=" #fOptionUseAND" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node11 [label="{bool\n||}",height=0.2,width=0.4,color="grey75"];
+  Node12 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +fHistMan" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node12 [label="{o2::framework::OutputObj\l\< HistogramManager \>\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator-\>()\l+ operator*()\l+ ref()\l}",height=0.2,width=0.4,color="black",URL="$d4/d79/structo2_1_1framework_1_1OutputObj.html"];
+  Node13 -> Node12 [color="grey25",fontsize="10",style="solid",label=" +object" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node13 [label="{shared_ptr\< HistogramManager \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node14 -> Node12 [color="grey25",fontsize="10",style="solid",label=" +policy" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node14 [label="{OutputObjHandlingPolicy\n||}",height=0.2,width=0.4,color="grey75"];
+  Node15 -> Node12 [color="grey25",fontsize="10",style="solid",label=" +mTaskHash" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node15 [label="{uint32_t\n||}",height=0.2,width=0.4,color="black",URL="$d3/d87/classuint32__t.html"];
+  Node16 -> Node12 [color="grey25",fontsize="10",style="solid",label=" +label" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node16 [label="{int\n||}",height=0.2,width=0.4,color="grey75"];
+  Node11 -> Node12 [color="grey25",fontsize="10",style="solid",label=" +isdangling" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node17 -> Node12 [color="grey25",fontsize="10",style="solid",label=" +spec" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node17 [label="{o2::framework::InputSpec\n||+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ operator==()\l}",height=0.2,width=0.4,color="black",URL="$da/d96/structo2_1_1framework_1_1InputSpec.html"];
+  Node18 -> Node17 [color="grey25",fontsize="10",style="solid",label=" +lifetime" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node18 [label="{enum Lifetime\n||}",height=0.2,width=0.4,color="grey75"];
+  Node19 -> Node17 [color="grey25",fontsize="10",style="solid",label=" +matcher" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node19 [label="{variant\< o2::framework\l::ConcreteDataMatcher,\l o2::framework::data_matcher\l::DataDescriptorMatcher \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node16 -> Node17 [color="grey25",fontsize="10",style="solid",label=" +binding" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node20 -> Node12 [dir="back",color="orange",fontsize="10",style="solid",label=" \< HistogramManager \>" ,fontname="Helvetica"];
+  Node20 [label="{o2::framework::OutputObj\< T \>\n||+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ spec()\l+ operator-\>()\l+ operator*()\l+ ref()\l}",height=0.2,width=0.4,color="black",URL="$d4/d79/structo2_1_1framework_1_1OutputObj.html"];
+  Node14 -> Node20 [color="grey25",fontsize="10",style="solid",label=" +policy" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node15 -> Node20 [color="grey25",fontsize="10",style="solid",label=" +mTaskHash" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node16 -> Node20 [color="grey25",fontsize="10",style="solid",label=" +label" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node21 -> Node20 [color="grey25",fontsize="10",style="solid",label=" +object" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node21 [label="{shared_ptr\< T \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node11 -> Node20 [color="grey25",fontsize="10",style="solid",label=" +isdangling" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node17 -> Node20 [color="grey25",fontsize="10",style="solid",label=" +spec" ,arrowhead="odiamond",fontname="Helvetica"];
+}

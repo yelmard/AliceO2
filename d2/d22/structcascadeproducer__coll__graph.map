@@ -1,0 +1,10 @@
+<map id="cascadeproducer" name="cascadeproducer">
+<area shape="rect" id="node2" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; double \&gt;\n||+ Configurable()\l+ operator double()\l+ operator&#45;\&gt;()\l}" alt="" coords="209,469,415,590"/>
+<area shape="rect" id="node5" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\&lt; T \&gt;\n||+ Configurable()\l+ operator T()\l+ operator&#45;\&gt;()\l}" alt="" coords="5,226,251,333"/>
+<area shape="rect" id="node9" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; TH1F \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="950,704,1141,943"/>
+<area shape="rect" id="node13" href="$da/d96/structo2_1_1framework_1_1InputSpec.html" title="{o2::framework::InputSpec\n||+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ operator==()\l}" alt="" coords="1181,204,1371,355"/>
+<area shape="rect" id="node17" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\&lt; T \&gt;\n||+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ spec()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="768,417,997,641"/>
+<area shape="rect" id="node7" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\l\&lt; aod::CascData \&gt;\n||}" alt="" coords="1407,777,1591,869"/>
+<area shape="rect" id="node8" href="$d6/d86/structo2_1_1framework_1_1Produces.html" title="{o2::framework::Produces\&lt; T \&gt;\n||}" alt="" coords="1487,491,1710,568"/>
+<area shape="rect" id="node11" href="$d3/d87/classuint32__t.html" title="{uint32_t\n||}" alt="" coords="1009,241,1084,318"/>
+</map>

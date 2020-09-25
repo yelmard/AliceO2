@@ -1,0 +1,4 @@
+<map id="o2::pid::DetectorResponse" name="o2::pid::DetectorResponse">
+<area shape="rect" id="node2" href="$d8/d53/classo2_1_1pid_1_1tof_1_1Response.html" title="Class to handle the the TOF detector response. " alt="" coords="5,263,220,560"/>
+<area shape="rect" id="node3" href="$d2/d6e/classo2_1_1pid_1_1tpc_1_1Response.html" title="Class to handle the the TPC detector response. " alt="" coords="245,336,415,487"/>
+</map>
